@@ -1,1 +1,1 @@
-This is Project Predict the Heart Disease using Machine Learning
+This is Machine Learning Project to Predict the Heart Disease
