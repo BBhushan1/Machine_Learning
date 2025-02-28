@@ -7,7 +7,7 @@ This project uses machine learning to predict the likelihood of heart disease ba
 🛠️ Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/BBhushan1/Machine_Learning.git
 cd heart-disease-prediction
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
